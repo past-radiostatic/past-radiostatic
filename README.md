@@ -3,7 +3,8 @@
 
 <p align="center">
   call me Apple or Isaac
-  C+H is 
+  <p align="center">
+  C+H is okay!!
 
 <p align="center">
 <img width="660" height="775" alt="Untitled487_20251226174723" src="https://github.com/user-attachments/assets/8d3bb7ae-77f1-4611-aa3f-6950d8fbae8c" />

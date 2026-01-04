@@ -13,11 +13,11 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ys2ujqpg4mxv64aoagxr2dny5a&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ys2ujqpg4mxv64aoagxr2dny5a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=false&bar_color=5d81a2">
   </a>
-</p>
 
-[atabook](https://applepiexdd.atabook.org/)
-
-[starw](https://radio-silence.straw.page/)
-
+<p align="center">
+  <a href="https://applepiexdd.atabook.org/">ATABook</a>
+<p align="center">
+  <a href="https://radio-silence.straw.page/">Strawpage</a>
+  
 <p align="center">
 <img width="1280" height="175" alt="IMG_7324" src="https://github.com/user-attachments/assets/9e786f5a-556b-4472-aaab-77f324d84d50" />
